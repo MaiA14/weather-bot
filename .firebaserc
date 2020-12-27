@@ -1,0 +1,6 @@
+{
+  "projects": {
+    "default": "telegrambot-17c33",
+    "staging": "telegrambot-17c33"
+  }
+}
